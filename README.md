@@ -7,15 +7,7 @@
 
 ---
 
-### 🚀 Sobre Mim
-
-- 🔭 Atualmente trabalhando em **Projetos Java**
-- 🌱 Aprendendo **Desenvolvimento Full Stack**
-- 💡 Sempre buscando **novos desafios e oportunidades de aprendizado**
-
----
-
-### 🛠️ Tecnologias & Ferramentas
+### Linguagens em Desenvolvimento
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -52,14 +44,10 @@
 
 ---
 
-<h3 align="center">Vamos nos Conectar!</h3>
+<h3 align="center">Redes Sociais</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joão-victor-pavan-796aab263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:pavanjoaovictor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
-
-<p align="center">
-  <i>"A única maneira de fazer um ótimo trabalho é amar o que você faz." - Steve Jobs</i>
 </p>
 
