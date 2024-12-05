@@ -1,10 +1,23 @@
-## Olá. Sou o João Victor Pavan.
+# Olá 👋, eu sou o João Victor Pavan  
+Estudante de Desenvolvimento de Sistemas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Jo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Jo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
-</div>
-  
+💬 **Histórico**  
+- Desenvolvimento back-end (PHP, Java, MySQL, C)  
+- Desenvolvimento front-end (HTML, CSS, JavaScript)  
+- Sistema CRUD  
+- Desenvolvimento em Java  
+- Gerenciamento de banco de dados  
+
+📅 **Hobbies**  
+- Ir à academia  
+- Estudando defesa cibernetica 
+- Jogar videogames  
+
+💻 **Projetos atuais**  
+- **Sistema CRUD** (Concluído) - PHP & MySQL  
+- **Projetos em Java** (Em andamento) - Focado no desenvolvimento em Java  
+
+📚 **Aprendendo**  
+- Java  
+- Front-End  
+- Melhores práticas no desenvolvimento back-end  
