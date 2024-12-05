@@ -24,7 +24,7 @@
 ### 🎯 Projetos em Destaque
 
 - 🚀 [Sistema CRUD](https://github.com/Joojjuuk/BancoDeTintas) - Um sistema CRUD completo utilizando PHP e MySQL
-- ☕ [Projeto Java](link-do-projeto) - Desenvolvimento Java em andamento
+- ☕ [Projeto Java](--colocarlinkdps) - Desenvolvimento Java em andamento
 
 ---
 
