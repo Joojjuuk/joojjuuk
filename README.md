@@ -1,73 +1,65 @@
 <div align="center">
-  <img src="https://fontmeme.com/permalink/230601/7e9f9f6f5f1d4d6e3f2c9f1b9f1b9f1b.png" alt="JOÃO VICTOR PAVAN" border="0">
+  <img src="https://seu-banner-personalizado.com/imagem.png" alt="Banner" width="100%">
 </div>
+
+<h1 align="center">Olá, Sou o João Victor Pavan</h1>
+<h3 align="center">Desenvolvedor Full Stack em Formação | Solucionador de Problemas | Entusiasta de Tecnologia</h3>
+
+---
+
+### 🚀 Sobre Mim
+
+- 🔭 Atualmente trabalhando em **Projetos Java**
+- 🌱 Aprendendo **Desenvolvimento Full Stack**
+- 💡 Sempre buscando **novos desafios e oportunidades de aprendizado**
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor-Full%20Stack-FF00FF?style=for-the-badge&logoColor=white" alt="Dev Badge"/>
-  <br/>
-  <em>Estudante de Desenvolvimento de Sistemas</em>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joojjuuk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joojjuuk&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://i.imgur.com/XKCVhPZ.gif](https://imgur.com/gallery/mfw-its-2-am-im-browsing-imgur-N3qszdR" alt="Hotline Miami Gif" width="300">
-</div>
+---
 
-<div style="background: linear-gradient(to right, #FF0066, #00FF9F); padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <h2 style="color: #FFF; text-align: center;">🌆 PERFIL 🌆</h2>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="color: #FFF; margin-bottom: 10px;">🚀 Desenvolvedor Full Stack em formação</li>
-    <li style="color: #FFF; margin-bottom: 10px;">💡 Apaixonado por resolver problemas com código</li>
-    <li style="color: #FFF; margin-bottom: 10px;">🔍 Sempre em busca de novos desafios</li>
-  </ul>
-</div>
+### 🎯 Projetos em Destaque
 
-<div style="background: linear-gradient(to right, #00FF9F, #00FFFF); padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <h2 style="color: #000; text-align: center;">💾 HISTÓRICO</h2>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="color: #000; margin-bottom: 10px;">🔮 <strong>Back-end:</strong> PHP, Java, MySQL, C</li>
-    <li style="color: #000; margin-bottom: 10px;">🎨 <strong>Front-end:</strong> HTML, CSS, JavaScript</li>
-    <li style="color: #000; margin-bottom: 10px;">🛠️ Sistema CRUD</li>
-    <li style="color: #000; margin-bottom: 10px;">☕ Java Development</li>
-    <li style="color: #000; margin-bottom: 10px;">🗄️ Database Management</li>
-  </ul>
-</div>
+- 🚀 [Sistema CRUD](link-do-projeto) - Um sistema CRUD completo utilizando PHP e MySQL
+- ☕ [Projeto Java](link-do-projeto) - Desenvolvimento Java em andamento
 
-<div style="background: linear-gradient(to right, #FF00FF, #FF0066); padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <h2 style="color: #FFF; text-align: center;">🎮 HOBBIES</h2>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="color: #FFF; margin-bottom: 10px;">🏋️ Ir à academia</li>
-    <li style="color: #FFF; margin-bottom: 10px;">🛡️ Estudando defesa cibernética</li>
-    <li style="color: #FFF; margin-bottom: 10px;">🕹️ Jogar videogames</li>
-  </ul>
-</div>
+---
 
-<div style="background: linear-gradient(to right, #00FFFF, #FF00FF); padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <h2 style="color: #000; text-align: center;">💻 PROJETOS ATUAIS</h2>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="color: #000; margin-bottom: 10px;">🚀 <strong>Sistema CRUD</strong> [Concluído]<br/>Tecnologias: PHP & MySQL</li>
-    <li style="color: #000; margin-bottom: 10px;">🔥 <strong>Projetos em Java</strong> [Em andamento]<br/>Foco: Desenvolvimento Java</li>
-  </ul>
-</div>
+### 🌟 Hobbies
 
-<div style="background: linear-gradient(to right, #FF0066, #00FF9F); padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <h2 style="color: #FFF; text-align: center;">📚 APRENDENDO</h2>
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="color: #FFF; margin-bottom: 10px;">⚡ Java</li>
-    <li style="color: #FFF; margin-bottom: 10px;">🎨 Front-End</li>
-    <li style="color: #FFF; margin-bottom: 10px;">🔧 Melhores práticas no desenvolvimento back-end</li>
-  </ul>
-</div>
+- 🏋️ Academia
+- 🎮 Jogos eletrônicos
 
-<div align="center" style="margin-top: 20px;">
-  <h2 style="color: #FF00FF;">🌐 CONEXÕES</h2>
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+---
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://i.imgur.com/5vIZWNB.gif" alt="Hotline Miami Character" width="200">
-</div>
+<h3 align="center">Vamos nos Conectar!</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joão-victor-pavan-796aab263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:pavanjoaovictor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
+<p align="center">
+  <i>"A única maneira de fazer um ótimo trabalho é amar o que você faz." - Steve Jobs</i>
+</p>
+
