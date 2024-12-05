@@ -21,15 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joojjuuk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joojjuuk&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
 ### 🎯 Projetos em Destaque
 
 - 🚀 [Sistema CRUD](https://github.com/Joojjuuk/BancoDeTintas) - Um sistema CRUD completo utilizando PHP e MySQL
