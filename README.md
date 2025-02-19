@@ -23,6 +23,7 @@
 
 - 🚀 [Sistema CRUD](https://github.com/Joojjuuk/BancoDeTintas) - Um sistema CRUD completo utilizando PHP e MySQL
 - ☕ [Projeto Java](--colocarlinkdps) - Desenvolvimento Java em andamento
+- 📱 [Projeto em Flutter] - Desenvolvimento em andamento
 
 ---
 
